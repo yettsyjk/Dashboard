@@ -1,0 +1,27 @@
+h1 {
+    font-weight: bolder;
+}
+img {
+    border: 15px solid #000;
+    padding: 0 auto;
+    margin: 10px;
+}
+
+.table {
+    background-color: blanchedalmond;
+    float: left;
+}
+#top {
+    background-color: #fff;
+}
+.outer {
+ background-color: crimson;
+    margin: 10px;
+
+}
+
+.inner {
+    background-color: goldenrod;
+    padding: 5px;
+    margin: 10px 15px 20px 25px;
+}
